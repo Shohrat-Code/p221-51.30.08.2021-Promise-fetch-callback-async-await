@@ -6,3 +6,7 @@
 https://javascript.info/promise-basics<br />
 https://javascript.info/fetch<br />
 https://javascript.info/async-await<br />
+
+
+
+## Uğurlar
